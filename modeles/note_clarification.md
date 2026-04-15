@@ -5,22 +5,22 @@ Cette note de clarification se base sur les besoins exprimés dans l'énoncé.
 ###### Personne :
 - prénom
 
-=> fait partie de [Communauté]] ( * - * ) (il peut donc l'administrer)<br>
-	en tant que Membre :<br>
-		=>vote contre Membre ( 1 - 1 )<br>
-=> a des liens avec [Personne]] ( * - * ) avec *description* et *unidirectionnel*<br>
-=> possède [Savoir faire]] ( * - 1 ) avec *degré ∈ ⟦1; 5⟧* <br>
-=> propose [Service]] ( * - * )<br>
-=> possède [Compte_Ğ1]] ( * - * )<br>
-=> expédie [Message|Message]] ( 1 - * )<br>
-=> est à [Position]]  ( * - 1 )<br>
-=> crée [Communauté]] ( 1 - * )<br>
+=> fait partie de [Communauté]] ( * - * ) (il peut donc l'administrer)
+	en tant que Membre :
+		=>vote contre Membre ( 1 - 1 )
+=> a des liens avec [Personne]] ( * - * ) avec *description* et *unidirectionnel*
+=> possède [Savoir faire]] ( * - 1 ) avec *degré ∈ ⟦1; 5⟧* 
+=> propose [Service]] ( * - * )
+=> possède [Compte_Ğ1]] ( * - * )
+=> expédie [Message|Message]] ( 1 - * )
+=> est à [Position]]  ( * - 1 )
+=> crée [Communauté]] ( 1 - * )
 
 ---
 ###### Communauté :
 - nom<br>
-=> a des liens avec [Communauté]] ( * - * ) avec *description* et *unidirectionnel*<br>
-=> possède [Savoir faire]] ( * - 1 ) avec *degré ∈ ⟦1; 5⟧* <br>
+=> a des liens avec [Communauté]] ( * - * ) avec *description* et *unidirectionnel*
+=> possède [Savoir faire]] ( * - 1 ) avec *degré ∈ ⟦1; 5⟧* 
 
 ---
 ###### Savoir faire :

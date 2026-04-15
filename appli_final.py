@@ -5,10 +5,10 @@ import math
 import numpy as np
 
 
-HOST = "tuxa.sme.utc"
-USER = "nf18a045"
-PASSWORD = "t7R2VmrxnT9H"
-DATABASE = "dbnf18a045"
+HOST = ""
+USER = ""
+PASSWORD = ""
+DATABASE = ""
 
 
 # lire le fichier .sql

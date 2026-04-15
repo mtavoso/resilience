@@ -28,6 +28,9 @@ On proposera au moins les trois vues suivantes :
 
 - Vue proches : permet de visualiser les communautés et personnes proches de chaque personne et communauté (à une distance inférieure à 1km)
 
+## Contribution personnelle
+Implication majoritairement dans la création du modèle et dans son implémentation sur POSTGRE. Le sujet comprend le développement d'une application python, réalisée par Skander Saad.
+
 ## Membres du projet: 
 - Matys Tavoso
 - Gaspard Oliveira
